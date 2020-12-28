@@ -2,12 +2,14 @@
 title: Hexo matery 代码块修复
 date: 2020-12-28 11:29:23
 tags:
-
+- Hexo
+- matery
+categories: matery-theme
 ---
 
 
 
-###  代码块在 matery 主题下的基本展示:
+###  代码块在 matery 主题下的基本展示<!-- more -->:
 
 ```python
 # python

@@ -5,10 +5,10 @@ tags:
 - Hexo
 - 加载优化
 - matery
-- Butterfly
+categories: matery-theme
 ---
 
-###  加载优化优化
+###  加载优化<!-- more -->
 
 + 插件安装
 
