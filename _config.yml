@@ -104,6 +104,6 @@ theme: matery
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
-  type: gitee
+  type: git
   repo: https://gitee.com/wang_hong_bin/hexoBlog.git
   branch: main
