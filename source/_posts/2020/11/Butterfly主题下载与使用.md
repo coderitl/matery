@@ -1,9 +1,10 @@
 ---
 title: Butterfly主题下载与使用
-date: 2020-11-13 14:10:28
 tags: theme
-top_img: 
-cover: https://gitee.com/wang_hong_bin/pic-go-photos/raw/master/buff.png
+cover: 'https://gitee.com/wang_hong_bin/pic-go-photos/raw/master/buff.png'
+abbrlink: 35587
+date: 2020-11-13 14:10:28
+top_img:
 ---
 
 ###  Butterfly

@@ -1,7 +1,7 @@
 ---
 title: Javascript-正则表达式
 tags: javascript
-categories: "javascript"
+categories: javascript
 password: ''
 abstract: 'Something is encrypted, please enter the password to view.'
 message: 'Hello, password is required here'
@@ -9,6 +9,7 @@ wrong_pass_message: 'Sorry, this password doesn''t look right, please try again.
 wrong_hash_message: >-
   Sorry, this article cannot be verified, but you can still see the decrypted
   content
+abbrlink: 20069
 date: 2020-12-16 12:02:31
 top_img:
 cover:

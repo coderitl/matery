@@ -1,10 +1,12 @@
 ---
 title: Gitee图床
-date: 2020-10-24 14:59:55
 tags: 图床
-categories: "Git"
+categories: Git
+cover: >-
+  https://gitee.com/wang_hong_bin/pic-go-photos/raw/master/QQ截图20201024150508.png
+abbrlink: 50828
+date: 2020-10-24 14:59:55
 top_img:
-cover: https://gitee.com/wang_hong_bin/pic-go-photos/raw/master/QQ截图20201024150508.png
 ---
 
 

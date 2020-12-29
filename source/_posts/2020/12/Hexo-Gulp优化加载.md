@@ -1,11 +1,12 @@
 ---
 title: Hexo-Gulp优化加载
-date: 2020-12-28 14:45:41
-tags: 
-- Hexo
-- 加载优化
-- matery
+tags:
+  - Hexo
+  - 加载优化
+  - matery
 categories: matery-theme
+abbrlink: 20870
+date: 2020-12-28 14:45:41
 ---
 
 ###  加载优化<!-- more -->

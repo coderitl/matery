@@ -1,9 +1,10 @@
 ---
 title: Hexo-valine评论系统
-date: 2020-12-19 11:24:37
 tags: Hexo
-categories: 
-- Hexo
+categories:
+  - Hexo
+abbrlink: 25682
+date: 2020-12-19 11:24:37
 ---
 
 ###  Hexo-valine评论系统

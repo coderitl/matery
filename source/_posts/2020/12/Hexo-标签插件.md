@@ -1,10 +1,11 @@
 ---
 title: Hexo-标签插件
-date: 2020-12-28 15:55:34
-tags: 
-- Hexo
-- matery
+tags:
+  - Hexo
+  - matery
 categories: matery-theme
+abbrlink: 50622
+date: 2020-12-28 15:55:34
 ---
 
 ###   Hexo 标签插件<!-- more -->

@@ -1,10 +1,11 @@
 ---
 title: Dos窗口修改
+tags:
+  - 电脑小技巧
+cover: 'https://gitee.com/wang_hong_bin/pic-go-photos/raw/master/dos.png'
+abbrlink: 2867
 date: 2020-10-21 00:04:46
-tags: 
-- 电脑小技巧
-top_img: 
-cover: https://gitee.com/wang_hong_bin/pic-go-photos/raw/master/dos.png
+top_img:
 ---
 
 ```bash

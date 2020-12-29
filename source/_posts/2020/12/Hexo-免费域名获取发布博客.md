@@ -1,10 +1,11 @@
 ---
 title: Hexo-免费域名获取发布博客
-date: 2020-12-21 18:33:51
 tags: Hexo
 categories: Hexo
+cover: 'https://gitee.com/wang_hong_bin/pic-go-photos/raw/master/utp8.png'
+abbrlink: 58918
+date: 2020-12-21 18:33:51
 top_img:
-cover: https://gitee.com/wang_hong_bin/pic-go-photos/raw/master/utp8.png
 ---
 
 ###  Hexo-免费域名获取发布博客

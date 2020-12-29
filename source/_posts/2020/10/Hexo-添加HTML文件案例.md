@@ -1,11 +1,12 @@
 ---
 title: Hexo-添加HTML文件案例
-date: 2020-10-15 23:24:05
 tags: HTML
-categories: "HTML"
+categories: HTML
 top: 2
+cover: 'https://gitee.com/wang_hong_bin/pic-go-photos/raw/master/hexo.png'
+abbrlink: 56851
+date: 2020-10-15 23:24:05
 top_img:
-cover: https://gitee.com/wang_hong_bin/pic-go-photos/raw/master/hexo.png
 ---
 
 ```html

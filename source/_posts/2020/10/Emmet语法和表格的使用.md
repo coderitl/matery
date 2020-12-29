@@ -1,13 +1,14 @@
 ---
 title: Emmet语法和表格的使用
-date: 2020-10-24 20:33:09
-tags: 
-- HTML
-categories: 
-- "HTML"
+tags:
+  - HTML
+categories:
+  - HTML
 top: 6
+cover: 'https://gitee.com/wang_hong_bin/pic-go-photos/raw/master/Emmet.png'
+abbrlink: 57002
+date: 2020-10-24 20:33:09
 top_img:
-cover: https://gitee.com/wang_hong_bin/pic-go-photos/raw/master/Emmet.png
 ---
 
 ### `Emmet` 语法使用:

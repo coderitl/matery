@@ -1,10 +1,11 @@
 ---
 title: Java基础
-date: 2020-10-13 18:44:19
 tags: Java
-categories: "Java" #分类
+categories: Java
+cover: 'https://gitee.com/wang_hong_bin/pic-go-photos/raw/master/Java.jpg'
+abbrlink: 38943
+date: 2020-10-13 18:44:19
 top_img:
-cover: https://gitee.com/wang_hong_bin/pic-go-photos/raw/master/Java.jpg
 ---
 
 ### Java 变量:

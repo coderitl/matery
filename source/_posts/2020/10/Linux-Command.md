@@ -1,10 +1,11 @@
 ---
 title: Linux Command
-date: 2020-10-17 22:20:21
 tags: Linux
-categories: "Linux"
+categories: Linux
+cover: 'https://gitee.com/wang_hong_bin/pic-go-photos/raw/master/Linux.jpg'
+abbrlink: 62237
+date: 2020-10-17 22:20:21
 top_img:
-cover: https://gitee.com/wang_hong_bin/pic-go-photos/raw/master/Linux.jpg
 ---
 
 ```bash

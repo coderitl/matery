@@ -1,11 +1,12 @@
 ---
 title: CSS-盒子模型
-date: 2020-10-26 11:41:24
 tags: HTML
-categories: 
-- HTML
-top_img: 
-cover: https://gitee.com/wang_hong_bin/pic-go-photos/raw/master/boxS.png
+categories:
+  - HTML
+cover: 'https://gitee.com/wang_hong_bin/pic-go-photos/raw/master/boxS.png'
+abbrlink: 18581
+date: 2020-10-26 11:41:24
+top_img:
 ---
 
 ###  盒子模型:

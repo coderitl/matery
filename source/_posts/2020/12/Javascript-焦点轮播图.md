@@ -1,7 +1,7 @@
 ---
 title: Javascript-焦点轮播图
 tags: javascript
-categories: "javascript"
+categories: javascript
 password: ''
 abstract: 'Something is encrypted, please enter the password to view.'
 message: 'Hello, password is required here'
@@ -9,6 +9,7 @@ wrong_pass_message: 'Sorry, this password doesn''t look right, please try again.
 wrong_hash_message: >-
   Sorry, this article cannot be verified, but you can still see the decrypted
   content
+abbrlink: 50800
 date: 2020-12-13 21:34:11
 top_img:
 cover:

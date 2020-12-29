@@ -1,11 +1,12 @@
 ---
 title: HTML基础内容详解
-date: 2020-10-14 10:32:26
 tags: HTML
-categories: "HTML"
+categories: HTML
 top: 3
-top_img: 
-cover: https://gitee.com/wang_hong_bin/pic-go-photos/raw/master/HTML.jpg
+cover: 'https://gitee.com/wang_hong_bin/pic-go-photos/raw/master/HTML.jpg'
+abbrlink: 15524
+date: 2020-10-14 10:32:26
+top_img:
 ---
 
 ```css

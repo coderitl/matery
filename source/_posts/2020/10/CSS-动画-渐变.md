@@ -1,11 +1,12 @@
 ---
 title: CSS-动画-渐变
-date: 2020-10-29 15:57:53
 tags: HTML
-categories: 
-- HTML
+categories:
+  - HTML
+cover: 'https://gitee.com/wang_hong_bin/pic-go-photos/raw/master/ann.jpg'
+abbrlink: 26288
+date: 2020-10-29 15:57:53
 top_img:
-cover: https://gitee.com/wang_hong_bin/pic-go-photos/raw/master/ann.jpg
 ---
 
 ###  `CSS 动画`   - `animation`：

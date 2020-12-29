@@ -1,9 +1,10 @@
 ---
 title: JavaScript-DOM操作
 password: ''
-date: 2020-11-27 15:12:42
 tags: JavaScript
-categories: "javascript"
+categories: javascript
+abbrlink: 41787
+date: 2020-11-27 15:12:42
 top_img:
 cover:
 ---

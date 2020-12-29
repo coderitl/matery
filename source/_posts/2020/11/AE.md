@@ -1,9 +1,10 @@
 ---
 title: AE
-date: 2020-11-07 13:11:41
 tags: AE
-top_img: 
-cover: https://gitee.com/wang_hong_bin/pic-go-photos/raw/master/AE.jpg
+cover: 'https://gitee.com/wang_hong_bin/pic-go-photos/raw/master/AE.jpg'
+abbrlink: 41969
+date: 2020-11-07 13:11:41
+top_img:
 ---
 
 ###  `AE工具栏及快捷键使用`:

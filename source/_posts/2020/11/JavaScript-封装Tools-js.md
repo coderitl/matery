@@ -1,15 +1,16 @@
 ---
 title: JavaScript-封装Tools.js
-password: 'Tools'
+password: Tools
 abstract: 'Something is encrypted, please enter the password to view.'
 message: 'Hello, password is required here'
 wrong_pass_message: 'Sorry, this password doesn''t look right, please try again.'
 wrong_hash_message: >-
   Sorry, this article cannot be verified, but you can still see the decrypted
   content
-date: 2020-11-29 18:20:03
 tags: javascript
-categories: "javascript"
+categories: javascript
+abbrlink: 58139
+date: 2020-11-29 18:20:03
 top_img:
 cover:
 ---

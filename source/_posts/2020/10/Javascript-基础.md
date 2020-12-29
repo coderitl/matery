@@ -1,11 +1,12 @@
 ---
 title: JavaScript-基础
-date: 2020-10-18 23:53:19
 tags: JavaScript
-categories: "javascript"
+categories: javascript
 top: 5
+cover: 'https://gitee.com/wang_hong_bin/pic-go-photos/raw/master/JavaScript.jpg'
+abbrlink: 38826
+date: 2020-10-18 23:53:19
 top_img:
-cover: https://gitee.com/wang_hong_bin/pic-go-photos/raw/master/JavaScript.jpg
 ---
 
 ### 基础:

@@ -1,10 +1,11 @@
 ---
 title: Hexo matery 代码块修复
-date: 2020-12-28 11:29:23
 tags:
-- Hexo
-- matery
+  - Hexo
+  - matery
 categories: matery-theme
+abbrlink: 51
+date: 2020-12-28 11:29:23
 ---
 
 

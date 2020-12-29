@@ -7,9 +7,10 @@ wrong_pass_message: 'Sorry, this password doesn''t look right, please try again.
 wrong_hash_message: >-
   Sorry, this article cannot be verified, but you can still see the decrypted
   content
-date: 2020-12-01 15:11:29
 tags: javascript
-categories: "javascript"
+categories: javascript
+abbrlink: 23058
+date: 2020-12-01 15:11:29
 top_img:
 cover:
 ---

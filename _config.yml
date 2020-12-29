@@ -15,7 +15,7 @@ timezone: ''
 ## If your site is put in a subdirectory, set url as 'http://example.com/child' and root as '/child/'
 url: http://wang_hong_bin.gitee.io/hexoblog
 root: /hexoblog/
-permalink: :year/:month/:title/
+permalink: :year/:month:day:abbrlink.html
 permalink_defaults:
 pretty_urls:
   trailing_index: true # Set to false to remove trailing 'index.html' from permalinks
@@ -30,6 +30,7 @@ category_dir: categories
 code_dir: downloads/code
 i18n_dir: :lang
 skip_render:
+ 
 
 search:
   path: search.xml
@@ -100,7 +101,9 @@ ignore:
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
 theme: matery
-
+abbrlink: 
+  alg: crc16 #算法选项：crc16丨crc32
+  rep: dec #输出进制：dec为十进制，hex为十六进制
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:

@@ -1,10 +1,11 @@
 ---
 title: PyMYSQL CURD
-date: 2020-10-13 19:15:41
 tags: SQL
-categories: "SQL"
-top_img: 
-cover: https://gitee.com/wang_hong_bin/pic-go-photos/raw/master/Pymysql.jpg
+categories: SQL
+cover: 'https://gitee.com/wang_hong_bin/pic-go-photos/raw/master/Pymysql.jpg'
+abbrlink: 243
+date: 2020-10-13 19:15:41
+top_img:
 ---
 
 ```sql

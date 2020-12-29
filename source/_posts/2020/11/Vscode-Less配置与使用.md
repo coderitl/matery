@@ -1,9 +1,10 @@
 ---
 title: Vscode-Less配置与使用
-date: 2020-11-11 15:20:18
 tags: less
+cover: 'https://gitee.com/wang_hong_bin/pic-go-photos/raw/master/lessBg.png'
+abbrlink: 51278
+date: 2020-11-11 15:20:18
 top_img:
-cover: https://gitee.com/wang_hong_bin/pic-go-photos/raw/master/lessBg.png
 ---
 
 ###  `Vscode配置Less`：

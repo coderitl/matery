@@ -1,10 +1,11 @@
 ---
 title: Mybatis CURD
-date: 2020-10-13 19:12:33
 tags: SQL
-categories: "SQL" #分类
+categories: SQL
+cover: 'https://gitee.com/wang_hong_bin/pic-go-photos/raw/master/mybatis.jpg'
+abbrlink: 34082
+date: 2020-10-13 19:12:33
 top_img:
-cover: https://gitee.com/wang_hong_bin/pic-go-photos/raw/master/mybatis.jpg
 ---
 
 ### User类(只需要写数据库中对应的字段名，通过IDEA 快捷键 `Alt + ins`) 快速实现 `setxxx`方法 和 `toString()`:

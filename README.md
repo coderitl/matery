@@ -80,3 +80,11 @@ lazyload:
 
 
 
+###  文章短链接显示插件
+
+```bash
+npm install hexo-abbrlink --save  
+# 显示效果 显示改动: 121217726.html
+http://域名/hexoblog/hexoblog/2020/121217726.html
+```
+

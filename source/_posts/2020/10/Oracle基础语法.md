@@ -1,10 +1,11 @@
 ---
 title: Oracle基础语法
-date: 2020-10-13 19:08:41
 tags: SQL
-categories: "SQL"
+categories: SQL
+cover: 'https://gitee.com/wang_hong_bin/pic-go-photos/raw/master/oracle.jpg'
+abbrlink: 20479
+date: 2020-10-13 19:08:41
 top_img:
-cover: https://gitee.com/wang_hong_bin/pic-go-photos/raw/master/oracle.jpg
 ---
 
 #### Oracle 11g :

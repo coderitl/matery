@@ -1,10 +1,11 @@
 ---
 title: Git分支初次使用
-date: 2020-11-13 13:58:31
 tags: git
-categories: "Git"
+categories: Git
+cover: 'https://gitee.com/wang_hong_bin/pic-go-photos/raw/master/gitBranch.png'
+abbrlink: 11713
+date: 2020-11-13 13:58:31
 top_img:
-cover: https://gitee.com/wang_hong_bin/pic-go-photos/raw/master/gitBranch.png
 ---
 
 ###  (第一次使用其他分支)关于分支操作理解:

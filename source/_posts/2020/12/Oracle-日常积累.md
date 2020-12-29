@@ -1,7 +1,7 @@
 ---
 title: Oracle-日常积累
 tags: SQL
-categories: "SQL"
+categories: SQL
 password: ''
 abstract: 'Something is encrypted, please enter the password to view.'
 message: 'Hello, password is required here'
@@ -9,6 +9,7 @@ wrong_pass_message: 'Sorry, this password doesn''t look right, please try again.
 wrong_hash_message: >-
   Sorry, this article cannot be verified, but you can still see the decrypted
   content
+abbrlink: 34230
 date: 2020-12-16 16:18:18
 top_img:
 cover:

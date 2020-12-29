@@ -1,11 +1,12 @@
 ---
 title: Yilia 相册实现有效解决
-date: 2020-10-19 20:42:42
 tags: Hexo
-categories: "Hexo"
+categories: Hexo
 top: 5
+cover: 'https://gitee.com/wang_hong_bin/pic-go-photos/raw/master/Yilia.png'
+abbrlink: 15944
+date: 2020-10-19 20:42:42
 top_img:
-cover: https://gitee.com/wang_hong_bin/pic-go-photos/raw/master/Yilia.png
 ---
 
 ### 创建 `photos`

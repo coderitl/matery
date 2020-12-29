@@ -1,10 +1,11 @@
 ---
 title: 通过python 封装git命令快速提交
-date: 2020-10-20 21:51:41
 tags: Python
-categories: "Git"
+categories: Git
+cover: 'https://gitee.com/wang_hong_bin/pic-go-photos/raw/master/python.jpg'
+abbrlink: 51866
+date: 2020-10-20 21:51:41
 top_img:
-cover: https://gitee.com/wang_hong_bin/pic-go-photos/raw/master/python.jpg
 ---
 
 ###  新建 `github` 仓库

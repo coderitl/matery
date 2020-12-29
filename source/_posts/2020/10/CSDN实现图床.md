@@ -1,13 +1,14 @@
 ---
 title: CSDN实现图床
-date: 2020-10-19 15:50:27
 tags: 图床
 top: 2
-type: "categories"
+type: categories
 categories:
-- 图床
+  - 图床
+cover: 'https://gitee.com/wang_hong_bin/pic-go-photos/raw/master/picPhoto.png'
+abbrlink: 33906
+date: 2020-10-19 15:50:27
 top_img:
-cover: https://gitee.com/wang_hong_bin/pic-go-photos/raw/master/picPhoto.png
 ---
 
 ### 根目录下的`source/`添加静态资源文件夹：
