@@ -4,7 +4,7 @@
 
 # Site
 title: 源于此
-subtitle: ''
+subtitle: '缘···'
 description: ''
 keywords:
 author: Bin
@@ -54,7 +54,7 @@ highlight:
 
 prism_plugin:
   mode: 'preprocess'    # realtime/preprocess
-  theme: 'atom-dark'
+  theme: 'default'
   line_number: false    # default false
   custom_css:
 
