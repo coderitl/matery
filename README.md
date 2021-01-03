@@ -66,6 +66,13 @@ cover: # 默认false
 img: # 开启特色图 轮播图显示和卡片显示图
 ```
 
+### 图片预加载插件
+```bash
+有一些BUG可能出现:
+    + 第一次使用该主题时插件效果正确体现
+    + 第二次安装插件 全部显示 loading(网上的一些我暂时可查到的方法使我未生效)
+```
+
 ```bash
 # 图片预加载插件
 npm install hexo-lazyload-image --save

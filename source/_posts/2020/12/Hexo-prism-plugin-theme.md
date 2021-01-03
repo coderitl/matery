@@ -9,7 +9,7 @@ tags:
 categories: matery-theme
 ---
 
-###  Hexo prism_plugin-theme
+###  Hexo prism_plugin-theme(较为美观主题)
 
 + `default`
 
@@ -19,16 +19,18 @@ categories: matery-theme
 
   <img src="https://gitee.com/wang_hong_bin/pic-go-photos/raw/master/tommorow.png" title="tommorow">
 
-+ `coy`
-
-  <img src="https://gitee.com/wang_hong_bin/pic-go-photos/raw/master/coy.png" title="coy">
-
-- `funky`
-
-  <img src="https://gitee.com/wang_hong_bin/pic-go-photos/raw/master/funky.png">
-
 - `okaidia`
 
   <img src="https://gitee.com/wang_hong_bin/pic-go-photos/raw/master/fogeet.png">
 
   
+
++ `synthwave84` 蓝紫色
++ `xonokai`
+
++ `shades-of-purple`
+
++ `duotone-space`
+
++ `duotone-dark`
++ `dracula`

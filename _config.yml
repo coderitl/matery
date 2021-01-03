@@ -97,10 +97,14 @@ include:
 exclude:
 ignore:
 
+
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
 theme: matery
+#loading-image 
+
+# https://cdn.jsdelivr.net/gh/lovobin/FileJsDeliver@1.1.12/gif/4.gif
 abbrlink: 
   alg: crc16 #算法选项：crc16丨crc32
   rep: dec #输出进制：dec为十进制，hex为十六进制

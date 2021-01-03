@@ -41,7 +41,6 @@ INFO  Created: E:\blog\source\photos\index.md
 
   ```html
   
-  
   开始只新建两个文件夹，分别是:
   
   	+ min_photos
@@ -49,7 +48,6 @@ INFO  Created: E:\blog\source\photos\index.md
   	+ photos
   
   ```
-
   
 
 ###  通过 `git` 命令对仓库远程关联
